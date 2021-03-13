@@ -1,4 +1,4 @@
-# Hackathon Ordered Bell Numbers Submission
+# Hackathon Present Submission
 
 This project was created in the Relaxdays Code Challenge Vol. 1.
 See https://sites.google.com/relaxdays.de/hackathon-relaxdays/startseite for more information.
